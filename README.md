@@ -41,7 +41,7 @@ This project requires the following libraries:
 
 ## Usage
 
-1. Load the dataset (either from Kaggle or Google Drive if using Colab).
+1. Load the dataset (either from Kaggle or Google Drive).
 2. Perform data preprocessing, including missing value imputation and feature encoding.
 3. Apply machine learning models (e.g., Linear Regression) for predictions.
 4. Evaluate model performance using relevant metrics.
@@ -50,7 +50,7 @@ This project requires the following libraries:
 
 ## File Structure
 
-- `kaggle_project.ipynb`: Jupyter Notebook containing data processing and model training steps.
+- `kaggle_project.ipynb`: Notebook containing data processing and model training steps.
 
 ## Contributing
 
