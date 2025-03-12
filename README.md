@@ -1,8 +1,8 @@
-# Edge_Project
+# Edge_Project_Rudro_2008040
 
 
 ## Overview
-This project is a Kaggle dataset analysis using Google Colab. It includes data extraction, preprocessing, and analysis.
+This project is "World Universites Ranking 2023" dataset analysis using Google Colab. It includes data extraction, preprocessing, and analysis.
 
 ## Dependencies
 
